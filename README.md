@@ -1,2 +1,2 @@
 # tarefas-ebac-Saulo-Pinheiro
- Primeiro repositório do curso Ebac
+ Primeiro repositório do curso Ebac.
